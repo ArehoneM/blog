@@ -9,7 +9,8 @@ Welcome to **Charlotte's Blog**, a simple and elegant Django-powered blog platfo
 - 📝 Authenticated users can create, edit, and delete posts.
 - 🔒 Login & logout functionality.
 - 📦 Styled using Bootstrap 5.
-- 🐘 Deployed on [PythonAnywhere]([https://www.pythonanywhere.com](https://charlottemudau.pythonanywhere.com/)).(Go add your story)
+- 🐘 Deployed on [PythonAnywhere]([https://www.pythonanywhere.com](https://charlottemudau.pythonanywhere.com/).
+- (Go add your story)
 
 ## Tech Stack
 
